@@ -1,0 +1,22 @@
+{
+  "name": "myproject",
+  "version": "1.0.0",
+  "description": "Igor Azevedo",
+  "main": "index.js",
+  "scripts": {
+    "test": "teste"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igor-racer/mongodbinicial.git"
+  },
+  "keywords": [
+    "mongo"
+  ],
+  "author": "Igor Azevedo",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/igor-racer/mongodbinicial/issues"
+  },
+  "homepage": "https://github.com/igor-racer/mongodbinicial#readme"
+}
